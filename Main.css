@@ -5,6 +5,7 @@
 .container{
     max-width: 2100px;
     align-items: center;
+    text-align: center;
     padding: 0 30px;
     margin: 0 auto;
 }
@@ -12,10 +13,16 @@
     padding-top: 10px;
     background-color: rgb(0, 102, 255);
 }
-
+.container2{
+    max-width: 2100px;
+    align-items: center;
+    text-align: center;
+    padding: 0 30px;
+    margin: 0 auto;
+}
       
 
-  
+
 
 .header-nav{
     display:flex;
