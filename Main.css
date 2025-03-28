@@ -9,10 +9,11 @@
     text-align: center;
      /*padding: 0 30px;*/
      margin: 0 auto;
+    
 }
 .Header{
     padding-top: 10px;
-    background-color: rgb(0, 102, 255);
+    background-color: rgb(255, 166, 0);
 }
 .container2{
     max-width: 2100px;   
@@ -42,7 +43,7 @@
 
 .logo {
     display:flex;
-    align-items: flex-start;
+     padding-left: 15px;
     padding-bottom: 15px ;
 }
 .maintext{
